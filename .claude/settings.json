@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m venv venv)",
+      "Bash(source venv/bin/activate)",
+      "Bash(pkill -f uvicorn)",
+      "Read(//private/tmp/claude-501/-Users-ruite_ios-Desktop-aiShortVideo-xcode-proxy/tasks/**)",
+      "Bash(chmod +x start.sh stop.sh)"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python app/cli.py)",
+      "Bash(pip install -e .)",
+      "Bash(PYTHONPATH=/Users/ruite_ios/Desktop/aiShortVideo/xcode-proxy python app/cli.py)"
+    ]
+  }
+}
